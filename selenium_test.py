@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-# 开发人员   ：黎工
-# 开发时间   ：2020/7/8  21:48 
-# 文件名称   ：selenium_test.PY
-# 开发工具   ：PyCharm
 
 from selenium.webdriver import Chrome, ChromeOptions
 import time
